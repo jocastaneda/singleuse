@@ -5,7 +5,7 @@
 
 [main]
 ; (optional) set a project name to be displayed on the website
-; name = "Pantheon PrivateBin"
+name = "Pantheon PrivateBin"
 
 ; The full URL, with the domain name and directories that point to the PrivateBin files
 ; This URL is essential to allow Opengraph images to be displayed on social networks
@@ -62,7 +62,7 @@ languageselection = false
 
 ; (optional) Let users create a QR code for sharing the paste URL with one click.
 ; It works both when a new paste is created and when you view a paste.
-; qrcode = true
+qrcode = false
 
 ; (optional) IP based icons are a weak mechanism to detect if a comment was from
 ; a different user when the same username was used in a comment. It might be
