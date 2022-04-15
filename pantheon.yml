@@ -1,0 +1,6 @@
+api_version: 1
+
+enforce_https: full+subdomains
+php_version: 8.0
+database:
+  version: 10.6
